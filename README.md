@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/security-telemetry-and-response-pipeline-explainer/
 
+Repository: https://github.com/mizcausevic-dev/security-telemetry-and-response-pipeline-explainer
+
 ## What this is
 
 An interactive anatomy plate for Security Telemetry and Response Pipeline. Play, scrub, or jump the five stages. The same frame always draws the same picture.
